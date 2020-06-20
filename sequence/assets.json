@@ -1,0 +1,11 @@
+{
+    "root": {
+        "frames": {
+            "dither": 0,
+            "height": 68,
+            "width": 82
+        }
+    },
+    "source": "frames/",
+    "target": "output/"
+}

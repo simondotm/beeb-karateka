@@ -1,0 +1,578 @@
+RLE Packing 288 frames, frame size 20480
+ - Packing frame 0
+   RLE Pack size in=20479, out=316, saving=20163
+ - Packing frame 1
+   RLE Pack size in=20479, out=311, saving=20168
+ - Packing frame 2
+   RLE Pack size in=20479, out=353, saving=20126
+ - Packing frame 3
+   RLE Pack size in=20479, out=327, saving=20152
+ - Packing frame 4
+   RLE Pack size in=20479, out=370, saving=20109
+ - Packing frame 5
+   RLE Pack size in=20479, out=436, saving=20043
+ - Packing frame 6
+   RLE Pack size in=20479, out=410, saving=20069
+ - Packing frame 7
+   RLE Pack size in=20479, out=350, saving=20129
+ - Packing frame 8
+   RLE Pack size in=20479, out=333, saving=20146
+ - Packing frame 9
+   RLE Pack size in=20479, out=380, saving=20099
+ - Packing frame 10
+   RLE Pack size in=20479, out=360, saving=20119
+ - Packing frame 11
+   RLE Pack size in=20479, out=395, saving=20084
+ - Packing frame 12
+   RLE Pack size in=20479, out=402, saving=20077
+ - Packing frame 13
+   RLE Pack size in=20479, out=328, saving=20151
+ - Packing frame 14
+   RLE Pack size in=20479, out=439, saving=20040
+ - Packing frame 15
+   RLE Pack size in=20479, out=409, saving=20070
+ - Packing frame 16
+   RLE Pack size in=20479, out=415, saving=20064
+ - Packing frame 17
+   RLE Pack size in=20479, out=374, saving=20105
+ - Packing frame 18
+   RLE Pack size in=20479, out=386, saving=20093
+ - Packing frame 19
+   RLE Pack size in=20479, out=379, saving=20100
+ - Packing frame 20
+   RLE Pack size in=20479, out=341, saving=20138
+ - Packing frame 21
+   RLE Pack size in=20479, out=369, saving=20110
+ - Packing frame 22
+   RLE Pack size in=20479, out=354, saving=20125
+ - Packing frame 23
+   RLE Pack size in=20479, out=298, saving=20181
+ - Packing frame 24
+   RLE Pack size in=20479, out=255, saving=20224
+ - Packing frame 25
+   RLE Pack size in=20479, out=281, saving=20198
+ - Packing frame 26
+   RLE Pack size in=20479, out=355, saving=20124
+ - Packing frame 27
+   RLE Pack size in=20479, out=391, saving=20088
+ - Packing frame 28
+   RLE Pack size in=20479, out=381, saving=20098
+ - Packing frame 29
+   RLE Pack size in=20479, out=375, saving=20104
+ - Packing frame 30
+   RLE Pack size in=20479, out=341, saving=20138
+ - Packing frame 31
+   RLE Pack size in=20479, out=288, saving=20191
+ - Packing frame 32
+   RLE Pack size in=20479, out=385, saving=20094
+ - Packing frame 33
+   RLE Pack size in=20479, out=391, saving=20088
+ - Packing frame 34
+   RLE Pack size in=20479, out=335, saving=20144
+ - Packing frame 35
+   RLE Pack size in=20479, out=307, saving=20172
+ - Packing frame 36
+   RLE Pack size in=20479, out=356, saving=20123
+ - Packing frame 37
+   RLE Pack size in=20479, out=379, saving=20100
+ - Packing frame 38
+   RLE Pack size in=20479, out=398, saving=20081
+ - Packing frame 39
+   RLE Pack size in=20479, out=305, saving=20174
+ - Packing frame 40
+   RLE Pack size in=20479, out=352, saving=20127
+ - Packing frame 41
+   RLE Pack size in=20479, out=365, saving=20114
+ - Packing frame 42
+   RLE Pack size in=20479, out=376, saving=20103
+ - Packing frame 43
+   RLE Pack size in=20479, out=350, saving=20129
+ - Packing frame 44
+   RLE Pack size in=20479, out=351, saving=20128
+ - Packing frame 45
+   RLE Pack size in=20479, out=418, saving=20061
+ - Packing frame 46
+   RLE Pack size in=20479, out=348, saving=20131
+ - Packing frame 47
+   RLE Pack size in=20479, out=318, saving=20161
+ - Packing frame 48
+   RLE Pack size in=20479, out=395, saving=20084
+ - Packing frame 49
+   RLE Pack size in=20479, out=354, saving=20125
+ - Packing frame 50
+   RLE Pack size in=20479, out=291, saving=20188
+ - Packing frame 51
+   RLE Pack size in=20479, out=287, saving=20192
+ - Packing frame 52
+   RLE Pack size in=20479, out=319, saving=20160
+ - Packing frame 53
+   RLE Pack size in=20479, out=321, saving=20158
+ - Packing frame 54
+   RLE Pack size in=20479, out=315, saving=20164
+ - Packing frame 55
+   RLE Pack size in=20479, out=335, saving=20144
+ - Packing frame 56
+   RLE Pack size in=20479, out=325, saving=20154
+ - Packing frame 57
+   RLE Pack size in=20479, out=322, saving=20157
+ - Packing frame 58
+   RLE Pack size in=20479, out=336, saving=20143
+ - Packing frame 59
+   RLE Pack size in=20479, out=350, saving=20129
+ - Packing frame 60
+   RLE Pack size in=20479, out=335, saving=20144
+ - Packing frame 61
+   RLE Pack size in=20479, out=322, saving=20157
+ - Packing frame 62
+   RLE Pack size in=20479, out=313, saving=20166
+ - Packing frame 63
+   RLE Pack size in=20479, out=326, saving=20153
+ - Packing frame 64
+   RLE Pack size in=20479, out=313, saving=20166
+ - Packing frame 65
+   RLE Pack size in=20479, out=294, saving=20185
+ - Packing frame 66
+   RLE Pack size in=20479, out=346, saving=20133
+ - Packing frame 67
+   RLE Pack size in=20479, out=347, saving=20132
+ - Packing frame 68
+   RLE Pack size in=20479, out=290, saving=20189
+ - Packing frame 69
+   RLE Pack size in=20479, out=315, saving=20164
+ - Packing frame 70
+   RLE Pack size in=20479, out=310, saving=20169
+ - Packing frame 71
+   RLE Pack size in=20479, out=313, saving=20166
+ - Packing frame 72
+   RLE Pack size in=20479, out=316, saving=20163
+ - Packing frame 73
+   RLE Pack size in=20479, out=299, saving=20180
+ - Packing frame 74
+   RLE Pack size in=20479, out=292, saving=20187
+ - Packing frame 75
+   RLE Pack size in=20479, out=289, saving=20190
+ - Packing frame 76
+   RLE Pack size in=20479, out=290, saving=20189
+ - Packing frame 77
+   RLE Pack size in=20479, out=266, saving=20213
+ - Packing frame 78
+   RLE Pack size in=20479, out=257, saving=20222
+ - Packing frame 79
+   RLE Pack size in=20479, out=267, saving=20212
+ - Packing frame 80
+   RLE Pack size in=20479, out=287, saving=20192
+ - Packing frame 81
+   RLE Pack size in=20479, out=279, saving=20200
+ - Packing frame 82
+   RLE Pack size in=20479, out=261, saving=20218
+ - Packing frame 83
+   RLE Pack size in=20479, out=286, saving=20193
+ - Packing frame 84
+   RLE Pack size in=20479, out=279, saving=20200
+ - Packing frame 85
+   RLE Pack size in=20479, out=249, saving=20230
+ - Packing frame 86
+   RLE Pack size in=20479, out=296, saving=20183
+ - Packing frame 87
+   RLE Pack size in=20479, out=273, saving=20206
+ - Packing frame 88
+   RLE Pack size in=20479, out=238, saving=20241
+ - Packing frame 89
+   RLE Pack size in=20479, out=317, saving=20162
+ - Packing frame 90
+   RLE Pack size in=20479, out=314, saving=20165
+ - Packing frame 91
+   RLE Pack size in=20479, out=229, saving=20250
+ - Packing frame 92
+   RLE Pack size in=20479, out=297, saving=20182
+ - Packing frame 93
+   RLE Pack size in=20479, out=310, saving=20169
+ - Packing frame 94
+   RLE Pack size in=20479, out=261, saving=20218
+ - Packing frame 95
+   RLE Pack size in=20479, out=298, saving=20181
+ - Packing frame 96
+   RLE Pack size in=20479, out=263, saving=20216
+ - Packing frame 97
+   RLE Pack size in=20479, out=243, saving=20236
+ - Packing frame 98
+   RLE Pack size in=20479, out=291, saving=20188
+ - Packing frame 99
+   RLE Pack size in=20479, out=311, saving=20168
+ - Packing frame 100
+   RLE Pack size in=20479, out=357, saving=20122
+ - Packing frame 101
+   RLE Pack size in=20479, out=347, saving=20132
+ - Packing frame 102
+   RLE Pack size in=20479, out=347, saving=20132
+ - Packing frame 103
+   RLE Pack size in=20479, out=398, saving=20081
+ - Packing frame 104
+   RLE Pack size in=20479, out=374, saving=20105
+ - Packing frame 105
+   RLE Pack size in=20479, out=333, saving=20146
+ - Packing frame 106
+   RLE Pack size in=20479, out=325, saving=20154
+ - Packing frame 107
+   RLE Pack size in=20479, out=356, saving=20123
+ - Packing frame 108
+   RLE Pack size in=20479, out=346, saving=20133
+ - Packing frame 109
+   RLE Pack size in=20479, out=336, saving=20143
+ - Packing frame 110
+   RLE Pack size in=20479, out=305, saving=20174
+ - Packing frame 111
+   RLE Pack size in=20479, out=303, saving=20176
+ - Packing frame 112
+   RLE Pack size in=20479, out=355, saving=20124
+ - Packing frame 113
+   RLE Pack size in=20479, out=375, saving=20104
+ - Packing frame 114
+   RLE Pack size in=20479, out=293, saving=20186
+ - Packing frame 115
+   RLE Pack size in=20479, out=288, saving=20191
+ - Packing frame 116
+   RLE Pack size in=20479, out=328, saving=20151
+ - Packing frame 117
+   RLE Pack size in=20479, out=275, saving=20204
+ - Packing frame 118
+   RLE Pack size in=20479, out=314, saving=20165
+ - Packing frame 119
+   RLE Pack size in=20479, out=295, saving=20184
+ - Packing frame 120
+   RLE Pack size in=20479, out=289, saving=20190
+ - Packing frame 121
+   RLE Pack size in=20479, out=317, saving=20162
+ - Packing frame 122
+   RLE Pack size in=20479, out=292, saving=20187
+ - Packing frame 123
+   RLE Pack size in=20479, out=304, saving=20175
+ - Packing frame 124
+   RLE Pack size in=20479, out=287, saving=20192
+ - Packing frame 125
+   RLE Pack size in=20479, out=266, saving=20213
+ - Packing frame 126
+   RLE Pack size in=20479, out=275, saving=20204
+ - Packing frame 127
+   RLE Pack size in=20479, out=280, saving=20199
+ - Packing frame 128
+   RLE Pack size in=20479, out=302, saving=20177
+ - Packing frame 129
+   RLE Pack size in=20479, out=372, saving=20107
+ - Packing frame 130
+   RLE Pack size in=20479, out=368, saving=20111
+ - Packing frame 131
+   RLE Pack size in=20479, out=378, saving=20101
+ - Packing frame 132
+   RLE Pack size in=20479, out=360, saving=20119
+ - Packing frame 133
+   RLE Pack size in=20479, out=357, saving=20122
+ - Packing frame 134
+   RLE Pack size in=20479, out=317, saving=20162
+ - Packing frame 135
+   RLE Pack size in=20479, out=354, saving=20125
+ - Packing frame 136
+   RLE Pack size in=20479, out=387, saving=20092
+ - Packing frame 137
+   RLE Pack size in=20479, out=374, saving=20105
+ - Packing frame 138
+   RLE Pack size in=20479, out=331, saving=20148
+ - Packing frame 139
+   RLE Pack size in=20479, out=353, saving=20126
+ - Packing frame 140
+   RLE Pack size in=20479, out=369, saving=20110
+ - Packing frame 141
+   RLE Pack size in=20479, out=383, saving=20096
+ - Packing frame 142
+   RLE Pack size in=20479, out=324, saving=20155
+ - Packing frame 143
+   RLE Pack size in=20479, out=276, saving=20203
+ - Packing frame 144
+   RLE Pack size in=20479, out=409, saving=20070
+ - Packing frame 145
+   RLE Pack size in=20479, out=405, saving=20074
+ - Packing frame 146
+   RLE Pack size in=20479, out=369, saving=20110
+ - Packing frame 147
+   RLE Pack size in=20479, out=389, saving=20090
+ - Packing frame 148
+   RLE Pack size in=20479, out=349, saving=20130
+ - Packing frame 149
+   RLE Pack size in=20479, out=400, saving=20079
+ - Packing frame 150
+   RLE Pack size in=20479, out=388, saving=20091
+ - Packing frame 151
+   RLE Pack size in=20479, out=367, saving=20112
+ - Packing frame 152
+   RLE Pack size in=20479, out=393, saving=20086
+ - Packing frame 153
+   RLE Pack size in=20479, out=393, saving=20086
+ - Packing frame 154
+   RLE Pack size in=20479, out=391, saving=20088
+ - Packing frame 155
+   RLE Pack size in=20479, out=289, saving=20190
+ - Packing frame 156
+   RLE Pack size in=20479, out=255, saving=20224
+ - Packing frame 157
+   RLE Pack size in=20479, out=321, saving=20158
+ - Packing frame 158
+   RLE Pack size in=20479, out=365, saving=20114
+ - Packing frame 159
+   RLE Pack size in=20479, out=404, saving=20075
+ - Packing frame 160
+   RLE Pack size in=20479, out=276, saving=20203
+ - Packing frame 161
+   RLE Pack size in=20479, out=394, saving=20085
+ - Packing frame 162
+   RLE Pack size in=20479, out=389, saving=20090
+ - Packing frame 163
+   RLE Pack size in=20479, out=405, saving=20074
+ - Packing frame 164
+   RLE Pack size in=20479, out=316, saving=20163
+ - Packing frame 165
+   RLE Pack size in=20479, out=357, saving=20122
+ - Packing frame 166
+   RLE Pack size in=20479, out=356, saving=20123
+ - Packing frame 167
+   RLE Pack size in=20479, out=350, saving=20129
+ - Packing frame 168
+   RLE Pack size in=20479, out=372, saving=20107
+ - Packing frame 169
+   RLE Pack size in=20479, out=354, saving=20125
+ - Packing frame 170
+   RLE Pack size in=20479, out=297, saving=20182
+ - Packing frame 171
+   RLE Pack size in=20479, out=307, saving=20172
+ - Packing frame 172
+   RLE Pack size in=20479, out=348, saving=20131
+ - Packing frame 173
+   RLE Pack size in=20479, out=366, saving=20113
+ - Packing frame 174
+   RLE Pack size in=20479, out=363, saving=20116
+ - Packing frame 175
+   RLE Pack size in=20479, out=320, saving=20159
+ - Packing frame 176
+   RLE Pack size in=20479, out=342, saving=20137
+ - Packing frame 177
+   RLE Pack size in=20479, out=388, saving=20091
+ - Packing frame 178
+   RLE Pack size in=20479, out=382, saving=20097
+ - Packing frame 179
+   RLE Pack size in=20479, out=343, saving=20136
+ - Packing frame 180
+   RLE Pack size in=20479, out=391, saving=20088
+ - Packing frame 181
+   RLE Pack size in=20479, out=371, saving=20108
+ - Packing frame 182
+   RLE Pack size in=20479, out=349, saving=20130
+ - Packing frame 183
+   RLE Pack size in=20479, out=351, saving=20128
+ - Packing frame 184
+   RLE Pack size in=20479, out=364, saving=20115
+ - Packing frame 185
+   RLE Pack size in=20479, out=346, saving=20133
+ - Packing frame 186
+   RLE Pack size in=20479, out=352, saving=20127
+ - Packing frame 187
+   RLE Pack size in=20479, out=313, saving=20166
+ - Packing frame 188
+   RLE Pack size in=20479, out=310, saving=20169
+ - Packing frame 189
+   RLE Pack size in=20479, out=372, saving=20107
+ - Packing frame 190
+   RLE Pack size in=20479, out=348, saving=20131
+ - Packing frame 191
+   RLE Pack size in=20479, out=281, saving=20198
+ - Packing frame 192
+   RLE Pack size in=20479, out=335, saving=20144
+ - Packing frame 193
+   RLE Pack size in=20479, out=327, saving=20152
+ - Packing frame 194
+   RLE Pack size in=20479, out=275, saving=20204
+ - Packing frame 195
+   RLE Pack size in=20479, out=333, saving=20146
+ - Packing frame 196
+   RLE Pack size in=20479, out=348, saving=20131
+ - Packing frame 197
+   RLE Pack size in=20479, out=274, saving=20205
+ - Packing frame 198
+   RLE Pack size in=20479, out=310, saving=20169
+ - Packing frame 199
+   RLE Pack size in=20479, out=301, saving=20178
+ - Packing frame 200
+   RLE Pack size in=20479, out=290, saving=20189
+ - Packing frame 201
+   RLE Pack size in=20479, out=315, saving=20164
+ - Packing frame 202
+   RLE Pack size in=20479, out=300, saving=20179
+ - Packing frame 203
+   RLE Pack size in=20479, out=310, saving=20169
+ - Packing frame 204
+   RLE Pack size in=20479, out=344, saving=20135
+ - Packing frame 205
+   RLE Pack size in=20479, out=352, saving=20127
+ - Packing frame 206
+   RLE Pack size in=20479, out=337, saving=20142
+ - Packing frame 207
+   RLE Pack size in=20479, out=374, saving=20105
+ - Packing frame 208
+   RLE Pack size in=20479, out=332, saving=20147
+ - Packing frame 209
+   RLE Pack size in=20479, out=319, saving=20160
+ - Packing frame 210
+   RLE Pack size in=20479, out=344, saving=20135
+ - Packing frame 211
+   RLE Pack size in=20479, out=337, saving=20142
+ - Packing frame 212
+   RLE Pack size in=20479, out=339, saving=20140
+ - Packing frame 213
+   RLE Pack size in=20479, out=306, saving=20173
+ - Packing frame 214
+   RLE Pack size in=20479, out=329, saving=20150
+ - Packing frame 215
+   RLE Pack size in=20479, out=299, saving=20180
+ - Packing frame 216
+   RLE Pack size in=20479, out=307, saving=20172
+ - Packing frame 217
+   RLE Pack size in=20479, out=348, saving=20131
+ - Packing frame 218
+   RLE Pack size in=20479, out=383, saving=20096
+ - Packing frame 219
+   RLE Pack size in=20479, out=395, saving=20084
+ - Packing frame 220
+   RLE Pack size in=20479, out=329, saving=20150
+ - Packing frame 221
+   RLE Pack size in=20479, out=326, saving=20153
+ - Packing frame 222
+   RLE Pack size in=20479, out=276, saving=20203
+ - Packing frame 223
+   RLE Pack size in=20479, out=381, saving=20098
+ - Packing frame 224
+   RLE Pack size in=20479, out=410, saving=20069
+ - Packing frame 225
+   RLE Pack size in=20479, out=397, saving=20082
+ - Packing frame 226
+   RLE Pack size in=20479, out=359, saving=20120
+ - Packing frame 227
+   RLE Pack size in=20479, out=395, saving=20084
+ - Packing frame 228
+   RLE Pack size in=20479, out=399, saving=20080
+ - Packing frame 229
+   RLE Pack size in=20479, out=332, saving=20147
+ - Packing frame 230
+   RLE Pack size in=20479, out=319, saving=20160
+ - Packing frame 231
+   RLE Pack size in=20479, out=295, saving=20184
+ - Packing frame 232
+   RLE Pack size in=20479, out=284, saving=20195
+ - Packing frame 233
+   RLE Pack size in=20479, out=337, saving=20142
+ - Packing frame 234
+   RLE Pack size in=20479, out=397, saving=20082
+ - Packing frame 235
+   RLE Pack size in=20479, out=329, saving=20150
+ - Packing frame 236
+   RLE Pack size in=20479, out=377, saving=20102
+ - Packing frame 237
+   RLE Pack size in=20479, out=368, saving=20111
+ - Packing frame 238
+   RLE Pack size in=20479, out=342, saving=20137
+ - Packing frame 239
+   RLE Pack size in=20479, out=354, saving=20125
+ - Packing frame 240
+   RLE Pack size in=20479, out=220, saving=20259
+ - Packing frame 241
+   RLE Pack size in=20479, out=316, saving=20163
+ - Packing frame 242
+   RLE Pack size in=20479, out=330, saving=20149
+ - Packing frame 243
+   RLE Pack size in=20479, out=318, saving=20161
+ - Packing frame 244
+   RLE Pack size in=20479, out=349, saving=20130
+ - Packing frame 245
+   RLE Pack size in=20479, out=340, saving=20139
+ - Packing frame 246
+   RLE Pack size in=20479, out=374, saving=20105
+ - Packing frame 247
+   RLE Pack size in=20479, out=378, saving=20101
+ - Packing frame 248
+   RLE Pack size in=20479, out=365, saving=20114
+ - Packing frame 249
+   RLE Pack size in=20479, out=267, saving=20212
+ - Packing frame 250
+   RLE Pack size in=20479, out=316, saving=20163
+ - Packing frame 251
+   RLE Pack size in=20479, out=312, saving=20167
+ - Packing frame 252
+   RLE Pack size in=20479, out=298, saving=20181
+ - Packing frame 253
+   RLE Pack size in=20479, out=346, saving=20133
+ - Packing frame 254
+   RLE Pack size in=20479, out=344, saving=20135
+ - Packing frame 255
+   RLE Pack size in=20479, out=271, saving=20208
+ - Packing frame 256
+   RLE Pack size in=20479, out=348, saving=20131
+ - Packing frame 257
+   RLE Pack size in=20479, out=329, saving=20150
+ - Packing frame 258
+   RLE Pack size in=20479, out=336, saving=20143
+ - Packing frame 259
+   RLE Pack size in=20479, out=323, saving=20156
+ - Packing frame 260
+   RLE Pack size in=20479, out=325, saving=20154
+ - Packing frame 261
+   RLE Pack size in=20479, out=285, saving=20194
+ - Packing frame 262
+   RLE Pack size in=20479, out=334, saving=20145
+ - Packing frame 263
+   RLE Pack size in=20479, out=385, saving=20094
+ - Packing frame 264
+   RLE Pack size in=20479, out=314, saving=20165
+ - Packing frame 265
+   RLE Pack size in=20479, out=356, saving=20123
+ - Packing frame 266
+   RLE Pack size in=20479, out=381, saving=20098
+ - Packing frame 267
+   RLE Pack size in=20479, out=361, saving=20118
+ - Packing frame 268
+   RLE Pack size in=20479, out=304, saving=20175
+ - Packing frame 269
+   RLE Pack size in=20479, out=304, saving=20175
+ - Packing frame 270
+   RLE Pack size in=20479, out=262, saving=20217
+ - Packing frame 271
+   RLE Pack size in=20479, out=328, saving=20151
+ - Packing frame 272
+   RLE Pack size in=20479, out=345, saving=20134
+ - Packing frame 273
+   RLE Pack size in=20479, out=429, saving=20050
+ - Packing frame 274
+   RLE Pack size in=20479, out=414, saving=20065
+ - Packing frame 275
+   RLE Pack size in=20479, out=393, saving=20086
+ - Packing frame 276
+   RLE Pack size in=20479, out=350, saving=20129
+ - Packing frame 277
+   RLE Pack size in=20479, out=406, saving=20073
+ - Packing frame 278
+   RLE Pack size in=20479, out=371, saving=20108
+ - Packing frame 279
+   RLE Pack size in=20479, out=406, saving=20073
+ - Packing frame 280
+   RLE Pack size in=20479, out=428, saving=20051
+ - Packing frame 281
+   RLE Pack size in=20479, out=421, saving=20058
+ - Packing frame 282
+   RLE Pack size in=20479, out=411, saving=20068
+ - Packing frame 283
+   RLE Pack size in=20479, out=407, saving=20072
+ - Packing frame 284
+   RLE Pack size in=20479, out=400, saving=20079
+ - Packing frame 285
+   RLE Pack size in=20479, out=363, saving=20116
+ - Packing frame 286
+   RLE Pack size in=20479, out=356, saving=20123
+ - Packing frame 287
+   RLE Pack size in=20479, out=359, saving=20120
+Compressing with exomizer...

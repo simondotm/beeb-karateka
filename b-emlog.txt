@@ -1,0 +1,6 @@
+19/06/2020 11:45:59 INFO main: starting B-em v-Win32
+19/06/2020 11:46:00 WARNING scsi lun 0: unable to open data file scsi/scsi0.dat: No such file or directory
+19/06/2020 11:46:00 WARNING scsi lun 1: unable to open data file scsi/scsi1.dat: No such file or directory
+19/06/2020 11:46:00 WARNING scsi lun 2: unable to open data file scsi/scsi2.dat: No such file or directory
+19/06/2020 11:46:00 WARNING scsi lun 3: unable to open data file scsi/scsi3.dat: No such file or directory
+19/06/2020 11:46:00 INFO disc: Loading 0 C:\Users\podvi\Dropbox\GitHub\beeb-karateka\nfo.ssd ssd
